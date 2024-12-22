@@ -19,6 +19,6 @@ To install and run the app, follow these steps:
 ## Usage
 1. **Starting a Game**: The game starts automatically when the app is launched. You can start a new game from the menu.
 2. **Taking Turns**: Players take turns picking 1, 2, or 3 stones from the pile by clicking the corresponding button.
-3. **Winning the Game**: The player who picks the last stone wins. A dialog will show the winner and the number of games played.
+3. **Winning the Game**: The player who picks the last stone loses. A dialog will show the winner and the number of games played.
 4. **Viewing Statistics**: Access the statistics from the menu to see the number of games played and other stats.
 5. **Settings**: Customize the game settings from the settings menu.
