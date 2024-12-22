@@ -1,7 +1,7 @@
 # 13 Stones
 
 ## Overview
-**13 Stones** is an Android app developed using Android Studio. The app is a quick two-player game where players take turns picking stones from a pile. The player who picks the last stone wins.
+**13 Stones** is an Android app developed using Android Studio. The app is a quick two-player game where players take turns picking stones from a pile. The player who picks the last stone loses.
 
 ## Features
 - **Two-Player Mode**: Play against another player.
