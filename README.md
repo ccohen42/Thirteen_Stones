@@ -12,7 +12,7 @@
 
 ## Installation
 To install and run the app, follow these steps:
-1. Clone the repository: `git clone https://github.com/yourusername/13-stones.git`
+1. Clone the repository.
 2. Open the project in Android Studio.
 3. Build the project and run it on an emulator or a physical device.
 
